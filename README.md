@@ -221,17 +221,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search and fetch verified KiCad parts (symbol, footprint, 3D model) for AI-assisted PCB design — 21k+ parts, CC-BY-4.0, no account needed.
 - [Postman](https://postman.com) `https://mcp.postman.com/mcp`
   🔐 - Work with Postman collections, environments, and APIs.
-- [Python Code Validator](https://api.statemind.ai) `https://api.statemind.ai/mcp`
-  [![Python Code Validator MCP connector](https://glama.ai/mcp/connectors/ai.statemind/python-code-validator/badges/score.svg)](https://glama.ai/mcp/connectors/ai.statemind/python-code-validator)
-  🔓 - Validate AI-generated Python: syntax, lint, security policy, sandboxed run against stated examples, and repair.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
-- [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
-  🔐 - Run an Amazon seller brand from chat: profit analytics, PPC, inventory forecasting, listings, staged approvals.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 
@@ -411,6 +406,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [SealGate](https://github.com/Edison-Watch/sealgate-mcp) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Security gateway and data firewall for AI agents. One remote MCP endpoint (`https://mcp.sealgate.ai/mcp`, OAuth 2.1) fronts every MCP server and messaging connector (WhatsApp, iMessage, Telegram, LinkedIn, Slack, and more) you enable, with per-tool access-control levels, CEL policy rules, lethal-trifecta blocking, and a full audit log. Connect guides for 100 agent + network pairs at [sealgate.ai/connect](https://sealgate.ai/connect). `npx -y @sealgate/mcp`
 - [Promptguard](https://mcp.glc-rag.hu/guide/promptguard) `https://mcp.glc-rag.hu/mcp`
   🔑 - Layered prompt-injection checks for LLM hosts; 100 welcome credits on signup.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
@@ -435,9 +431,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 
-- [ADSBiq](https://adsbiq.com/api/other/mcp) `https://adsbiq.com/mcp`
-  [![ADSBiq MCP connector](https://glama.ai/mcp/connectors/com.adsbiq/adsbiq/badges/score.svg)](https://glama.ai/mcp/connectors/com.adsbiq/adsbiq)
-  🔓 - Look up live aircraft, search nearby traffic, and retrieve aggregate ADS-B network statistics.
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights from Alice, one of Israel's best-known travel apps, including Tel Aviv routes, with English and Hebrew results tagged best, cheapest, and fastest.
