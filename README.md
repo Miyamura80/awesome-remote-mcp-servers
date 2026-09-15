@@ -739,7 +739,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
-- [SealGate](https://sealgate.ai) `https://mcp.sealgate.ai/mcp`
+- [SealGate](https://sealgate.ai) `https://mcp.sealgate.ai/mcp` [![SealGate MCP](https://glama.ai/mcp/servers/Edison-Watch/sealgate-mcp/badges/score.svg)]
   🔐 - Connect agents to Everything and manage access to it. (WhatsApp, iMessage, Telegram, LinkedIn, Slack, and more) you enable, with per-tool access-control levels, CEL policy rules, lethal-trifecta blocking, and a full audit log. 
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
